@@ -72,7 +72,7 @@ h2{
 p{
     color: var(--grey);
     font-size: 1.6em;
-    width: 28em;
+    max-width: 28em;
     line-height: 150%;
     margin-bottom: 2em;
 }
