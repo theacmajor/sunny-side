@@ -275,7 +275,7 @@ h3{
         width: 100%;
     }
     .desktop-nav{
-        visibility: hidden;
+        display: none;
     }
     
 }
